@@ -25,7 +25,7 @@
     <name>restAPI Maven Webapp</name>
 
     <properties>
-        <version.org.jboss.resteasy>3.0.12.Final</version.org.jboss.resteasy>
+        <version.org.jboss.resteasy>4.5.7.Final</version.org.jboss.resteasy>
         <enunciate.version>2.0.0-M.4</enunciate.version>
     </properties>
 
